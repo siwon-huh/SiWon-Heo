@@ -12,7 +12,9 @@
   <a href="https://www.instagram.com/imgnry_cool/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
+    <a href="https://scholar.google.com/citations?user=72ZSxJAAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/google scholar-%23E0005F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
 </p>
 
 <p align='center'>
@@ -24,8 +26,7 @@
 </p>
 
 
-📃 Resume
-
+# 📃 Resume
 
 ## Education
 
@@ -40,8 +41,6 @@ Supervisor: Hojoon Lee, SSLAB
 📍 **Sungkyunkwan University** - Suwon, South Korea
 
 ## Experience
-
-<img align="right" src="https://img.shields.io/badge/Xamarin%20Forms-3498DB?logo=xamarin&logoColor=white" />
 
 - 👨‍💻 **Invited Researcher**\
 📆 2022.01 - 2022.07\
