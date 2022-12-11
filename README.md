@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
     <a href="https://scholar.google.com/citations?user=72ZSxJAAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/google scholar-%23E0005F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    <img src="https://img.shields.io/badge/google scholar-%23E0005F.svg?&style=for-the-badge&logo=google&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
 
