@@ -19,22 +19,12 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=SiWon-Heo&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-
-
-<p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p>
-
-<!-- <details align='center'>
-  <summary>:zap: My workspace specs</summary>
-</details>-->
-
 <p align='center'>
   📫 How to reach me: <a href='mailto:calvin0420@g.skku.edu'>calvin0420@g.skku.edu</a>
 </p>
 
-<details>
-  <summary>📃 Resume</summary>
+
+📃 Resume
 
 
 ## Education
@@ -62,6 +52,4 @@ Supervisor: Yang Zhang
 📆 2018.06 - 2019.01\
 📍 **SK C&C** - Seoul, South Korea
 
-
-</details>
 
