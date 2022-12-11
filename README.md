@@ -36,7 +36,7 @@ Supervisor: Hojoon Lee, SSLAB
 
 - 📖 **B.S. of Mathematics and Computer Science**\
 📆 2015.03 - 2021.09\
-📍 **Sungkyunkwan University** - Suwon, South Korea\
+📍 **Sungkyunkwan University** - Suwon, South Korea
 
 ## Experience
 
