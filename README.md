@@ -30,19 +30,19 @@
 
 - 📖 **M.S. of Computer Science**\
 📆 2021.09 - 2023.02\
-📍 **Sungkyunkwan University** - Suwon, South Korea
+📍 **Sungkyunkwan University** - Suwon, South Korea\
 Supervisor: Hojoon Lee, SSLAB
 
 
 - 📖 **B.S. of Mathematics and Computer Science**\
 📆 2015.03 - 2021.09\
-📍 **Sungkyunkwan University** - Suwon, South Korea
+📍 **Sungkyunkwan University** - Suwon, South Korea\
 
 ## Experience
 
 - 👨‍💻 **Invited Researcher**\
 📆 2022.01 - 2022.07\
-📍 **CISPA Helmholtz Center for Information Security** - Saarbruecken, Germany
+📍 **CISPA Helmholtz Center for Information Security** - Saarbruecken, Germany\
 Supervisor: Yang Zhang
 
 - 👨‍💻 **Office Assistant**\
