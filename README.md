@@ -61,7 +61,7 @@
     📍 **SK C&C** - Seoul, South Korea
     💡 Assisted preprocessing of the Sound-to-Text data for training the model for illeg ality judgement in the insurance sales process.
     
--   👨‍💻 **Military Service**\
+-   🪖 **Military Service**\
     📆 2016.08 - 2018.04\
     📍 **Defense Psychological Operation Group** - Seoul, South Korea\
     💡 Honorably Discharged
