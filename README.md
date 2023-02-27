@@ -28,7 +28,7 @@
 -   📖 **M.S. of Computer Science**\
     📆 2021.09 - 2023.02\
     📍 **Sungkyunkwan University** - Suwon, South Korea\
-    🔍 **Supervisor** - Hojoon Lee, SSLAB
+    🔍 **Supervisor** - Hojoon Lee, SSLAB\
     📜 Thesis - Towards Privacy-preserving DID Resolving Architecture
 
 -   📖 **B.S. of Mathematics and Computer Science**\
