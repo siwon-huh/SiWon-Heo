@@ -53,12 +53,12 @@
 -   👨‍💻 **Invited Researcher**\
     📆 2022.01 - 2022.07\
     📍 **CISPA Helmholtz Center for Information Security** - Saarbrücken, Germany\
-    🔍 **Supervisor** - Yang Zhang
+    🔍 **Supervisor** - Yang Zhang\
     💡 Researched source code vulnerability detection using Explainable Graph Neural Network
     
 -   👨‍💻 **Office Assistant**\
     📆 2018.06 - 2019.01\
-    📍 **SK C&C** - Seoul, South Korea
+    📍 **SK C&C** - Seoul, South Korea\
     💡 Assisted preprocessing of the Sound-to-Text data for training the model for illeg ality judgement in the insurance sales process.
     
 -   🪖 **Military Service**\
