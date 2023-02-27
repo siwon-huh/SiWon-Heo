@@ -32,7 +32,7 @@
     📜 **Thesis** - Towards Privacy-preserving DID Resolving Architecture
 
 -   📖 **B.S. of Mathematics and Computer Science**\
-    📆 2015.03 - 2021.09\
+    📆 2015.03 - 2021.08\
     📍 **Sungkyunkwan University** - Suwon, South Korea
 
 ## Experience
