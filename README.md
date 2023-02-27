@@ -29,7 +29,7 @@
     📆 2021.09 - 2023.02\
     📍 **Sungkyunkwan University** - Suwon, South Korea\
     🔍 **Supervisor** - Hojoon Lee, SSLAB\
-    📜 Thesis - Towards Privacy-preserving DID Resolving Architecture
+    📜 **Thesis** - Towards Privacy-preserving DID Resolving Architecture
 
 -   📖 **B.S. of Mathematics and Computer Science**\
     📆 2015.03 - 2021.09\
@@ -41,6 +41,11 @@
     📆 2023.03 - 2023.06(expected)\
     📍 **Dream Academy** - Seoul, South Korea\
     💡 Studying cutting-edge Web 3.0 technology and related security vulnerabilities
+    
+-   👨‍💻 **The Boat: EVM Contract Developers**\
+    📆 2023.03 - 2023.04(expected)\
+    📍 **Ludium** - Seoul, South Korea\
+    💡 Studying technical skills for EVM-based Smart Contract Developers
 
 -   👨‍💻 **Invited Researcher**\
     📆 2022.01 - 2022.07\
@@ -48,7 +53,6 @@
     🔍 **Supervisor** - Yang Zhang
     💡 Researched source code vulnerability detection using Explainable Graph Neural Network
     
-
 -   👨‍💻 **Office Assistant**\
     📆 2018.06 - 2019.01\
     📍 **SK C&C** - Seoul, South Korea
