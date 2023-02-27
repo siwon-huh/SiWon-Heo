@@ -28,7 +28,8 @@
 -   📖 **M.S. of Computer Science**\
     📆 2021.09 - 2023.02\
     📍 **Sungkyunkwan University** - Suwon, South Korea\
-    Supervisor: Hojoon Lee, SSLAB
+    🔍 **Supervisor** - Hojoon Lee, SSLAB
+    📜 Thesis - Towards Privacy-preserving DID Resolving Architecture
 
 -   📖 **B.S. of Mathematics and Computer Science**\
     📆 2015.03 - 2021.09\
@@ -36,14 +37,22 @@
 
 ## Experience
 
+-   👨‍💻 **Dream Academy Hanhwa X Theori**\
+    📆 2023.03 - 2023.06(expected)\
+    📍 **Dream Academy** - Seoul, South Korea\
+    💡 Studying cutting-edge Web 3.0 technology and related security vulnerabilities
+
 -   👨‍💻 **Invited Researcher**\
     📆 2022.01 - 2022.07\
     📍 **CISPA Helmholtz Center for Information Security** - Saarbruecken, Germany\
-    Supervisor: Yang Zhang
+    🔍 **Supervisor** - Yang Zhang
+    💡 Researched source code vulnerability detection using Explainable Graph Neural Network
+    
 
 -   👨‍💻 **Office Assistant**\
     📆 2018.06 - 2019.01\
     📍 **SK C&C** - Seoul, South Korea
+    💡 Assisted preprocessing of the Sound-to-Text data for training the model for illeg ality judgement in the insurance sales process.
 
 <div><h1>📚 STACKS</h1></div>
 
