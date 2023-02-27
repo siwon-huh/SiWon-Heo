@@ -61,7 +61,7 @@
     📍 **SK C&C** - Seoul, South Korea
     💡 Assisted preprocessing of the Sound-to-Text data for training the model for illeg ality judgement in the insurance sales process.
 
-<div><h1>📚 STACKS</h1></div>
+<div><h1>📚 Stacks</h1></div>
 
 ### PL
 
