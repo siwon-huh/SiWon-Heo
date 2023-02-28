@@ -78,15 +78,10 @@
 
 ### Blockchain
 
-  <img src="https://img.shields.io/badge/uniswap-FF007A?style=for-the-badge&logo=uniswap&logoColor=white">  <img src="https://img.shields.io/badge/metamask-F6851B?style=for-the-badge&logo=metamask&logoColor=white">  <img src="https://img.shields.io/badge/opensea-2081E2?style=for-the-badge&logo=opensea&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white">  <img src="https://img.shields.io/badge/ipfs-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white">  <img src="https://img.shields.io/badge/hardhat-FFA500?style=for-the-badge&logo=&logoColor=white">  <img src="https://img.shields.io/badge/truffle-917A6B?style=for-the-badge&logo=&logoColor=white">  <img src="https://img.shields.io/badge/ganache-543023?style=for-the-badge&logo=&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/QuickNode-87CEEB?style=for-the-badge&logo=QuickNode&logoColor=white">  <img src="https://img.shields.io/badge/alchemy-3661AC?style=for-the-badge&logo=alchemy&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/infura-FF5833?style=for-the-badge&logo=&logoColor=white">  <img src="https://img.shields.io/badge/alchemy-0C0C0E?style=for-the-badge&logo=alchemy&logoColor=white">  <img src="https://img.shields.io/badge/allthatnode-000000?style=for-the-badge&logo=&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">  <img src="https://img.shields.io/badge/solana-00FFAM?style=for-the-badge&logo=&logoColor=white">  <img src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white">
+  <img src="https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white">  <img src="https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white">
 
 ### AI
 
