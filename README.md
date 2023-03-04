@@ -43,7 +43,7 @@
 -   👨‍💻 **Dream Academy Hanhwa X Theori**\
     📆 2023.03 - 2023.06(expected)\
     📍 **Dream Academy** - Seoul, South Korea\
-    💡 Studying cutting-edge Web 3.0 technology and related security vulnerabilities
+    💡 Studying cutting-edge Web 3.0 security skills
     
 -   👨‍💻 **The Boat: EVM Contract Developers**\
     📆 2023.03 - 2023.04(expected)\
