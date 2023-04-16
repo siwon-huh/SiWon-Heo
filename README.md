@@ -40,9 +40,9 @@
 
 ## Experience
 
--   👨‍💻 **Dream Academy Hanhwa X Theori**\
+-   👨‍💻 **Dreamplus Academy Hanhwa X Theori**\
     📆 2023.03 - 2023.06(expected)\
-    📍 **Dream Academy** - Seoul, South Korea\
+    📍 **Dreamplus Academy** - Seoul, South Korea\
     💡 Studying cutting-edge Web 3.0 security skills
     
 -   👨‍💻 **The Boat: EVM Contract Developers**\
