@@ -68,17 +68,17 @@
 
 ## Publication
 
--   📖 Title - DID We Miss Anything? Towards Privacy-preserving DID Resolving Architecture\
-    📍 Journal - IEEE Transactions on Dependable and Secure Computing\
-    🔍 Corresponding Author - Hojoon Lee, SSLAB\
-    💡 First Author
+-   📖 Title - **DID We Miss Anything? Towards Privacy-preserving DID Resolving Architecture**\
+    📍 Journal - **IEEE Transactions on Dependable and Secure Computing**\
+    🔍 Corresponding Author - **Hojoon Lee, SSLAB**\
+    💡 **First Author**
     
--   📖 Title - A Comprehensive Analysis of Today’s Malware and Its Distribution Network: Common Adversary Strategies and Implications\
-    📍 Journal - IEEE Access\
-    🔍 Corresponding Author - Hojoon Lee, SSLAB\
-    💡 First Author
+-   📖 Title - **A Comprehensive Analysis of Today’s Malware and Its Distribution Network: Common Adversary Strategies and Implications**\
+    📍 Journal - **IEEE Access**\
+    🔍 Corresponding Author - **Hojoon Lee, SSLAB**\
+    💡 **First Author**
 
--   📖 Title - Confidential Machine Learning Computation in Untrusted Environments: A Systems Security Perspective\
-    📍 Journal - IEEE Access\
-    🔍 Corresponding Author - Hojoon Lee, SSLAB\
+-   📖 Title - **Confidential Machine Learning Computation in Untrusted Environments: A Systems Security Perspective**\
+    📍 Journal - **IEEE Access**\
+    🔍 Corresponding Author - **Hojoon Lee, SSLAB**\
     💡 Co-Author
