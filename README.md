@@ -59,7 +59,7 @@
 -   👨‍💻 **Office Assistant**\
     📆 2018.06 - 2019.01\
     📍 **SK C&C** - Seoul, South Korea\
-    💡 Assisted preprocessing of the Sound-to-Text data for training the model for illeg ality judgement in the insurance sales process.
+    💡 Assisted preprocessing of the Sound-to-Text data for training the model for illegality judgement in the insurance sales process.
     
 -   🪖 **Military Service**\
     📆 2016.08 - 2018.04\
