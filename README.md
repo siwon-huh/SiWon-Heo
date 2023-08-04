@@ -49,12 +49,12 @@
 -   👨‍💻 **Dreamplus Academy Hanhwa X Theori**\
     📆 2023.03 - 2023.06\
     📍 **Dreamplus Academy** - Seoul, South Korea\
-    💡 Studying cutting-edge Web 3.0 security skills
+    💡 Trained cutting-edge Web 3.0 security skills
     
 -   👨‍💻 **The Boat: EVM Contract Developers**\
     📆 2023.03 - 2023.04\
     📍 **Ludium** - Seoul, South Korea\
-    💡 Studying technical skills for EVM-based Smart Contract Developers
+    💡 Studied technical skills for EVM-based Smart Contract Developers
 
 -   👨‍💻 **Invited Researcher**\
     📆 2022.01 - 2022.07\
