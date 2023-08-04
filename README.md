@@ -21,7 +21,7 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:calvin0420@g.skku.edu'>calvin0420@g.skku.edu</a>
+  📫 How to reach me: <a href='mailto:c4lvin@theori.io'>c4lvin@theori.io</a>
 </p>
 
 # 📃 Resume
