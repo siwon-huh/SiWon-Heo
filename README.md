@@ -26,6 +26,12 @@
 
 # 📃 Resume
 
+## Job Experience
+-   👨‍💻 **Web3 Research Analyst**\
+    📆 2023.07 - Now\
+    📍 **Theori** - Seoul, South Korea\
+    💡 Securing Web3 Ecosystem @ChainLight, Theori
+
 ## Education
 
 -   📖 **M.S. of Computer Science**\
@@ -38,10 +44,10 @@
     📆 2015.03 - 2021.08\
     📍 **Sungkyunkwan University** - Suwon, South Korea
 
-## Experience
+## Other Experience
 
 -   👨‍💻 **Dreamplus Academy Hanhwa X Theori**\
-    📆 2023.03 - 2023.06(expected)\
+    📆 2023.03 - 2023.06\
     📍 **Dreamplus Academy** - Seoul, South Korea\
     💡 Studying cutting-edge Web 3.0 security skills
     
