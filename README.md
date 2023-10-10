@@ -7,7 +7,7 @@
   <a href="https://scholar.google.com/citations?user=72ZSxJAAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/google scholar-%23E0005F.svg?&style=for-the-badge&logo=google&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/siwon-huh-92336625a/">
+  <a href="https://www.linkedin.com/in/siwon-huh-222716283/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://siwonheo-sslab.tistory.com/">
