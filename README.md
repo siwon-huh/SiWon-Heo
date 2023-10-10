@@ -35,7 +35,7 @@
 ## Education
 
 -   📖 **M.S. of Computer Science**\
-    📆 2021.09 - 2023.02\
+    📆 2021.09 - 2023.02 (Early Graduation) \
     📍 **Sungkyunkwan University** - Suwon, South Korea\
     🔍 **Supervisor** - Hojoon Lee, SSLAB\
     📜 **Thesis** - Towards Privacy-preserving DID Resolving Architecture
