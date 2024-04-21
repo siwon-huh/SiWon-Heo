@@ -9,10 +9,6 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/siwon-huh-222716283/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://siwonheo-sslab.tistory.com/">
-    <img src="https://img.shields.io/badge/tistory-%23000000.svg?&style=for-the-badge&logo=tistory&logoColor=white" />
-  </a>&nbsp;&nbsp;
   
 </p>
 
